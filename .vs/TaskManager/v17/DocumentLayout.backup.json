@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#_Projects\\Work_Projects\\TaskManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|c:\\c#_projects\\work_projects\\taskmanager\\view\\customcontrols\\taskpropsstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|solutionrelative:view\\customcontrols\\taskpropsstyle.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|c:\\c#_projects\\work_projects\\taskmanager\\view\\customcontrols\\taskprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|solutionrelative:view\\customcontrols\\taskprops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|c:\\c#_projects\\work_projects\\taskmanager\\view\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|solutionrelative:view\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\states\\taskstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\states\\taskstates.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\domain\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\domain\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\domain\\idomainobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\domain\\idomainobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\dal\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\dal\\efrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|c:\\c#_projects\\work_projects\\taskmanager\\model\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAA8F08D-93E9-4719-9909-C9949191B081}|Model\\Model.csproj|solutionrelative:model\\dal\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|c:\\c#_projects\\work_projects\\taskmanager\\view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F00CFE64-E969-41CE-9961-1127D8A34E6F}|View\\View.csproj|solutionrelative:view\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B33C9F2-7B84-4C6E-9BA6-97E5574F22CD}|ViewModel\\ViewModel.csproj|c:\\c#_projects\\work_projects\\taskmanager\\viewmodel\\ioc\\simpleconfigmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B33C9F2-7B84-4C6E-9BA6-97E5574F22CD}|ViewModel\\ViewModel.csproj|solutionrelative:viewmodel\\ioc\\simpleconfigmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskPropsStyle.xaml",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\CustomControls\\TaskPropsStyle.xaml",
+              "RelativeDocumentMoniker": "View\\CustomControls\\TaskPropsStyle.xaml",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\CustomControls\\TaskPropsStyle.xaml",
+              "RelativeToolTip": "View\\CustomControls\\TaskPropsStyle.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-04T13:29:55.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskProps.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\CustomControls\\TaskProps.cs",
+              "RelativeDocumentMoniker": "View\\CustomControls\\TaskProps.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\CustomControls\\TaskProps.cs*",
+              "RelativeToolTip": "View\\CustomControls\\TaskProps.cs*",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAAwKEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:28:25.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "View\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "View\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:27:58.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskStates.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\States\\TaskStates.cs",
+              "RelativeDocumentMoniker": "Model\\States\\TaskStates.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\States\\TaskStates.cs",
+              "RelativeToolTip": "Model\\States\\TaskStates.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:27:11.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\Domain\\MyTask.cs",
+              "RelativeDocumentMoniker": "Model\\Domain\\MyTask.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\Domain\\MyTask.cs*",
+              "RelativeToolTip": "Model\\Domain\\MyTask.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAA9wB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:26:30.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IDomainObject.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\Domain\\IDomainObject.cs",
+              "RelativeDocumentMoniker": "Model\\Domain\\IDomainObject.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\Domain\\IDomainObject.cs",
+              "RelativeToolTip": "Model\\Domain\\IDomainObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:26:28.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\IRepository.cs",
+              "RelativeDocumentMoniker": "Model\\DAL\\IRepository.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\IRepository.cs",
+              "RelativeToolTip": "Model\\DAL\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:26:19.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EFRepository.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\EFRepository.cs",
+              "RelativeDocumentMoniker": "Model\\DAL\\EFRepository.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\EFRepository.cs",
+              "RelativeToolTip": "Model\\DAL\\EFRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:26:15.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\Context.cs",
+              "RelativeDocumentMoniker": "Model\\DAL\\Context.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\Model\\DAL\\Context.cs*",
+              "RelativeToolTip": "Model\\DAL\\Context.cs*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:25:59.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\App.xaml.cs",
+              "RelativeDocumentMoniker": "View\\App.xaml.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\View\\App.xaml.cs",
+              "RelativeToolTip": "View\\App.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAASwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:22:30.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SimpleConfigModule.cs",
+              "DocumentMoniker": "C:\\C#_Projects\\Work_Projects\\TaskManager\\ViewModel\\IoC\\SimpleConfigModule.cs",
+              "RelativeDocumentMoniker": "ViewModel\\IoC\\SimpleConfigModule.cs",
+              "ToolTip": "C:\\C#_Projects\\Work_Projects\\TaskManager\\ViewModel\\IoC\\SimpleConfigModule.cs",
+              "RelativeToolTip": "ViewModel\\IoC\\SimpleConfigModule.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T13:22:19.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

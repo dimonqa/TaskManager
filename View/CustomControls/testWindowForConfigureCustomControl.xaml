@@ -1,0 +1,55 @@
+﻿<Window x:Class="View.CustomControls.testWindowForConfigureCustomControl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:View.CustomControls"
+        mc:Ignorable="d"
+        Title="testWindowForConfigureCustomControl" Height="450" Width="800">
+    <!--Это окно существует, чтобы настраивать контролы и видеть сразу все в конструкторе
+    так как в Custom Control TaskPropsStyle отсутствует видимый конструктор (его нельзя использовать)
+    по суди код xaml отсюда будет в TaskPropStyle-->
+    <Grid>
+        <!--Наименование-->
+        <TextBlock HorizontalAlignment="Left" Margin="40,10,0,0" TextWrapping="Wrap" Text="Наименование" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_Title"  HorizontalAlignment="Left" Margin="40,30,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="264" Height="24"/>
+
+        <!--Описание -->
+        <TextBlock HorizontalAlignment="Left" Margin="40,76,0,0" TextWrapping="Wrap" Text="Описание задачи" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_Description"  HorizontalAlignment="Left" Margin="40,105,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="698" Height="108"/>
+
+        <!--Исполнители -->
+        <TextBlock HorizontalAlignment="Left" Margin="370,10,0,0" TextWrapping="Wrap" Text="Исполнители" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_Executers"  HorizontalAlignment="Left" Margin="370,31,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="197" Height="23"/>
+
+        <!--Дата регистрации -->
+        <TextBlock Visibility="Hidden" HorizontalAlignment="Left" Margin="651,10,0,0" TextWrapping="Wrap" Text="Дата регистрации" VerticalAlignment="Top"/>
+        <TextBox Visibility="Hidden" x:Name="PART_DateReg"  HorizontalAlignment="Left" Margin="638,31,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="142" Height="23"/>
+
+        <!--Плановая трудоемкость просто текст бокс, стандартного нумерк апдауна нет, а реализовывать его вручную некогда было-->
+        <TextBlock HorizontalAlignment="Left" Margin="54,256,0,0" TextWrapping="Wrap" Text="Плановая трудоемкость (дней)" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_PlanCost"  HorizontalAlignment="Left" Margin="54,277,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="46" Height="24"/>
+
+        <!--Фактически затраченное время трудоемкость просто текст бокс, стандартного нумерк апдауна нет, а реализовывать его вручную некогда было-->
+        <TextBlock HorizontalAlignment="Left" Margin="244,257,0,0" TextWrapping="Wrap" Text="Фактически затраченное время" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_FactTimeExecute"  HorizontalAlignment="Left" Margin="244,277,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="46" Height="24"/>
+
+        <!--Дата завершения-->
+        <TextBlock HorizontalAlignment="Left" Margin="492,257,0,0" TextWrapping="Wrap" Text="Дата завершения" VerticalAlignment="Top"/>
+        <TextBox x:Name="PART_DateEnd"  HorizontalAlignment="Left" Margin="492,278,0,0" TextWrapping="Wrap"
+                            VerticalAlignment="Top" Width="187" Height="24"/>
+
+
+        <Button x:Name="PART_FirstButton" Content="OK" Height="25" Width="81" Margin="507,375,0,30" HorizontalAlignment="Left"/>
+        <Button x:Name="PART_SecondButton" Content="Отмена" Height="25" Width="81" Margin="647,375,0,30" HorizontalAlignment="Left"/>
+
+
+
+    </Grid>
+</Window>

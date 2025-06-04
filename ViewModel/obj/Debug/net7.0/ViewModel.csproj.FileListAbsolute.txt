@@ -1,0 +1,15 @@
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\bin\Debug\net7.0\ViewModel.deps.json
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\bin\Debug\net7.0\ViewModel.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\bin\Debug\net7.0\ViewModel.pdb
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\bin\Debug\net7.0\Model.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\bin\Debug\net7.0\Model.pdb
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.csproj.AssemblyReference.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfoInputs.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.AssemblyInfo.cs
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CoreCompileInputs.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.csproj.CopyComplete
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\refint\ViewModel.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ViewModel.pdb
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\ViewModel\obj\Debug\net7.0\ref\ViewModel.dll

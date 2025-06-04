@@ -1,0 +1,22 @@
+﻿<Window x:Class="View.EditeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"  
+        xmlns:custom="clr-namespace:View.CustomControls"
+        mc:Ignorable="d"
+        Title="EditeWindow" Height="500" Width="800">
+    <Grid>
+        <custom:TaskProps
+            TitleText="{Binding Title,Mode=TwoWay}"
+            DescriptionText="{Binding Description,Mode=TwoWay}"
+            ExecutersText="{Binding Executers, Mode=TwoWay}"
+            PlanCost="{Binding PlanCost, Mode=TwoWay}"
+            FactTimeExecute="{Binding FactTimeExecute, Mode=TwoWay}"    
+            DateReg="{Binding DateReg, Mode=TwoWay}" 
+            State="{Binding DateReg, Mode=TwoWay}" 
+            
+            FirstButtonCommand="{Binding SaveChanges}"
+            SecondButtonCommand="{Binding CloseWindow}"/>
+    </Grid>
+</Window>

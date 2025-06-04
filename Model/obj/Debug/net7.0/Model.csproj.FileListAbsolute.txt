@@ -1,0 +1,12 @@
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\bin\Debug\net7.0\Model.deps.json
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\bin\Debug\net7.0\Model.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\bin\Debug\net7.0\Model.pdb
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.csproj.AssemblyReference.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\refint\Model.dll
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\Model.pdb
+A:\С#_Projects\С# Developer MFTI\HomeWorks\Final_Work\Model\obj\Debug\net7.0\ref\Model.dll
